@@ -1,5 +1,6 @@
 ---
 title: Biggles Makes Games
+layout: default
 ---
 
 # New Blog!
